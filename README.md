@@ -7,7 +7,7 @@ Hi everyone! Today, I'm Suhail, excited to share my journey into the fascinating
 **Task1: Unleashing Creativity with 3D Printing**
 ![image](https://github.com/Suhail-Sharieff/marvel/assets/149879419/2a56ef72-95ea-4588-8f6e-6619b15f1f84)
 
-* **From Imagination to Print:** I dove into the world of 3D printing, learning how it works and how software like Fusion360 allows you to create your own 3D models. I even designed and printed a cool phone stand! 
+* **From Imagination to Print:** I dove into the world of 3D printing, learning how it works and how software like Fusion360 allows you to create your own 3D models. I even designed and printed a cool dinosaur! 
 * **Slicing the Way to Success:** I explored the concept of STL files, the format used to store 3D model information. Using Ultimaker Cura, I learned how to slice my model into thin layers, preparing it for printing on my Creality Ender V3.
 * **Printing with Precision:** I discovered the importance of setting the right temperatures for optimal printing. With a bed temperature of 60°C and a nozzle temperature of 210°C, I successfully printed a flexible dinosaur – a testament to the power of 3D printing!
 
