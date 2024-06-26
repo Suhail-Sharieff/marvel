@@ -15,6 +15,8 @@ Hi everyone! Today, I'm Suhail, excited to share my journey into the fascinating
 **Task2: Unlocking the Power of APIs**
 ![image](https://github.com/Suhail-Sharieff/marvel/assets/149879419/3f38f26e-1269-43fe-b500-014d70147d18)
 
+GitHub repo: https://github.com/Suhail-Sharieff/repo22-Currency_Converter
+
 * **Connecting the Dots:** I grasped the concept of APIs (Application Programming Interfaces) and how they act as bridges for communication between different software systems. Imagine them as waiters in a restaurant, taking your order (data) from one system and delivering it to another!
 * **Real-World Exploration:** I delved into a practical example on Github to understand how APIs function in real-world applications. This gave me valuable insights into their role in modern software development.
 
